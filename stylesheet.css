@@ -1,0 +1,47 @@
+body {
+	background: url("giphy.gif");
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+form {
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+p#footer {
+	text-align: center;
+	bottom: 30px;
+}
+
+.btn:hover {
+	background: #4A9C94;
+	text-decoration: none;
+}
+
+a { 
+	text-decoration: none; 
+	color: #E7387F;  
+	text-align: center;  
+} 
+a:visited { 
+	color: #E7387F; 
+	background-color: red;
+}
+
+.btn { 
+	margin-top: 30px; 
+	position: center; 
+	padding-left: 30px; 
+	padding-right: 30px;	
+	text-align: center; 
+	font-family: 'Atomic Age', Cursive; 
+	background-color: white;
+	border-radius: 7px;
+} 
